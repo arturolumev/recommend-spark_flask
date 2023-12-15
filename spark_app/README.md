@@ -1,3 +1,3 @@
 # Necesitas descargar el archivo csv 
-## wget https://files.grouplens.org/datasets/movielens
-## unzip ml-20m.zip
+### 1- wget https://files.grouplens.org/datasets/movielens
+### 2- unzip ml-20m.zip
