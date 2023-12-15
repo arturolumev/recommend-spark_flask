@@ -12,7 +12,7 @@ COPY requirements.txt .
 RUN pip3 install -r requirements.txt
 
 # Copia los archivos de la carpeta spark_app
-COPY static/ratings.csv /app/ratings.csv
+COPY ratings.csv /app/ratings.csv
 
 COPY logica_spark.py /app/logica_spark.py
 
