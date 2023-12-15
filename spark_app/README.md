@@ -1,0 +1,1 @@
+# Necesitas descargar el archivo csv https://files.grouplens.org/datasets/movielens
